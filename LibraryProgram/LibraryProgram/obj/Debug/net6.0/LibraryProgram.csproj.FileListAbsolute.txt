@@ -1,0 +1,15 @@
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/LibraryProgram.csproj.AssemblyReference.cache
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/LibraryProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/LibraryProgram.AssemblyInfoInputs.cache
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/LibraryProgram.AssemblyInfo.cs
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/LibraryProgram.csproj.CoreCompileInputs.cache
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/bin/Debug/net6.0/LibraryProgram
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/bin/Debug/net6.0/LibraryProgram.deps.json
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/bin/Debug/net6.0/LibraryProgram.runtimeconfig.json
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/bin/Debug/net6.0/LibraryProgram.dll
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/bin/Debug/net6.0/LibraryProgram.pdb
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/LibraryProgram.dll
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/refint/LibraryProgram.dll
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/LibraryProgram.pdb
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/LibraryProgram.genruntimeconfig.cache
+/Users/jackgaskell/Desktop/uni_year2/systems_programming/Week 8/LibraryProgram/LibraryProgram/obj/Debug/net6.0/ref/LibraryProgram.dll
